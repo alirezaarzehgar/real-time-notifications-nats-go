@@ -123,4 +123,4 @@ Feel free to adjust the schema according to your specific requirements and prefe
 
 This project is licensed under the GPL-3.0 License.
 
-Copyright 2023, Max Base
+Copyright 2023, Alireza Arzehgar
